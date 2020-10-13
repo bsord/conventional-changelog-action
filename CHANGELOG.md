@@ -1,3 +1,18 @@
+# [3.6.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.5.0...v3.6.0) (2020-10-13)
+
+
+### Bug Fixes
+
+* **workflow:** remove unshallow ([0c67b90](https://github.com/TriPSs/conventional-changelog-action/commit/0c67b904b316c33fc3e8d0a24b535ddcf18087ca))
+
+
+### Features
+
+* **unshallow:** fix unshallow ([33d4912](https://github.com/TriPSs/conventional-changelog-action/commit/33d49129d19df31f79f253be9702a0f778ee370b))
+* **unshallow:** remove unshallow ([c32fcd7](https://github.com/TriPSs/conventional-changelog-action/commit/c32fcd79474b7c4cd7086cf5787ace52cdb03312))
+
+
+
 # [3.5.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.4.0...v3.5.0) (2020-10-13)
 
 
@@ -47,15 +62,6 @@
 
 * Added 'multiple-files' test workflow ([bb40f54](https://github.com/TriPSs/conventional-changelog-action/commit/bb40f54b50fdae3a1a084b597370e7e0f95c28ab))
 * Added support for comma-separated version files ([3ba65fd](https://github.com/TriPSs/conventional-changelog-action/commit/3ba65fd7f7bff6e1c60178d49632067c6a8d6bfa))
-
-
-
-## [3.1.2](https://github.com/TriPSs/conventional-changelog-action/compare/v3.1.1...v3.1.2) (2020-07-27)
-
-
-### Bug Fixes
-
-* fail action on push rejection ([206a4e3](https://github.com/TriPSs/conventional-changelog-action/commit/206a4e313a58d868e56629ca59a29a5d8e0105ea))
 
 
 
