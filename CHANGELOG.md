@@ -1,3 +1,13 @@
+# [3.5.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.4.0...v3.5.0) (2020-10-13)
+
+
+### Features
+
+* **dry-run:** add ability to do dry run ([58fb8f9](https://github.com/TriPSs/conventional-changelog-action/commit/58fb8f9bde0a071900015e78cdf649b8f01c2d2c))
+* **dry-run:** enable inputs for dry run ([308349d](https://github.com/TriPSs/conventional-changelog-action/commit/308349da7e0cb3e9c4bf355a577d026da5c94726))
+
+
+
 # [3.4.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.3.0...v3.4.0) (2020-08-17)
 
 
@@ -46,16 +56,6 @@
 ### Bug Fixes
 
 * fail action on push rejection ([206a4e3](https://github.com/TriPSs/conventional-changelog-action/commit/206a4e313a58d868e56629ca59a29a5d8e0105ea))
-
-
-
-## [3.1.1](https://github.com/TriPSs/conventional-changelog-action/compare/v3.1.0...v3.1.1) (2020-07-13)
-
-
-### Bug Fixes
-
-* Changed yarn --prod to npm ci --prod ([5ba044f](https://github.com/TriPSs/conventional-changelog-action/commit/5ba044f581579411517848e186a425258f30556a))
-* Removed node_modules so rerelease could add them again ([1bac915](https://github.com/TriPSs/conventional-changelog-action/commit/1bac915367fb7a9aef99bf8df172e524b4614909))
 
 
 
