@@ -1,3 +1,12 @@
+# [3.7.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.6.0...v3.7.0) (2020-10-13)
+
+
+### Features
+
+* **fetch:** add fetch to fix unshallow ([ea41f77](https://github.com/TriPSs/conventional-changelog-action/commit/ea41f77ca3e71c2149d9b78421994084c448ffcc))
+
+
+
 # [3.6.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.5.0...v3.6.0) (2020-10-13)
 
 
@@ -47,21 +56,6 @@
 ### Features
 
 * Add fallback version ([63d0e46](https://github.com/TriPSs/conventional-changelog-action/commit/63d0e46a0b69e3db3f7a5f44e963323afc35d29c))
-
-
-
-# [3.2.0](https://github.com/TriPSs/conventional-changelog-action/compare/v3.1.2...v3.2.0) (2020-08-03)
-
-
-### Bug Fixes
-
-* Test name ([f66f6a2](https://github.com/TriPSs/conventional-changelog-action/commit/f66f6a29a71c9b5ee636cef9ee022f127da37304))
-
-
-### Features
-
-* Added 'multiple-files' test workflow ([bb40f54](https://github.com/TriPSs/conventional-changelog-action/commit/bb40f54b50fdae3a1a084b597370e7e0f95c28ab))
-* Added support for comma-separated version files ([3ba65fd](https://github.com/TriPSs/conventional-changelog-action/commit/3ba65fd7f7bff6e1c60178d49632067c6a8d6bfa))
 
 
 
